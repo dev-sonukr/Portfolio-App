@@ -23,6 +23,9 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".SkillActivity" android:exported="true"/>
+        <activity android:name=".EducationActivity" android:exported="true"/>
+
     </application>
 
 

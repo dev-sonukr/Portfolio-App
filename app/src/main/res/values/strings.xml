@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Project 1</string>
+    <string name="app_name">Portfolio App</string>
+    <string name="Education">I’m 2nd year BTech CSE Student at Mangalayatan University🎓, honing my skills in Android development, UI/UX optimization, and mobile performance enhancement.</string>
+    <string name="XII">Class XII| R.G.S. 10+2 High School 72.2%| 2023</string>
+    <string name="SKILL"><![CDATA[Programming Language : Python, Java, C (Fundamentals), C++, Data Structure & Algorithms ]]></string>
+    <string name="SKILL1">App Development : Kotlin, React Native, Jetpack Compose,XML </string>
 </resources>
