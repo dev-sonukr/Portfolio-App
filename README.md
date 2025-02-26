@@ -24,4 +24,4 @@ Through this project, I learned **fragments, intent handling, UI navigation, and
 
 ## 📥 Installation  
 1. Clone this repository:  
-   git clone https://github.com/your-username/portfolio-app.git
+   git clone https://github.com/dev-sonukr/portfolio-app.git
